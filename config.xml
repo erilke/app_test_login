@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "pw.encuesta.pruebalogin"
+        version     = "1.0.0"
+        versionCode = "1" >
+
+        <!-- versionCode is optional and Android only -->
+
+        <preference name="phonegap-version" value="3.7.0" />
+
+        <name>Encuesta Móvil</name>
+
+
+        <author href="http://yoursite.com" email="you@youremail.com">
+        PW
+        </author>
+        
+        <description>
+        Plataforma para encuestas móviles.
+        </description>
+
+        <icon src="img/icon.png" />
+
+        <access origin="*" />
+
+
+        
+    </widget>
